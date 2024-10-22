@@ -13,7 +13,8 @@ The parts listed here can be purchased from multiple online stores and retailers
 
 | Part | Description | Link |
 |-|-|-|
-| a | b | c |
+| Esp32 | Microcontroller running the SimpleFOC algorithm for motor control| [link] |
+| Esp32 | Microcontroller running the SimpleFOC algorithm for motor control| [link] |
 
 ### Mechanical parts
 
