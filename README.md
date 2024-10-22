@@ -21,6 +21,12 @@ The parts listed here can be purchased from multiple online stores and retailers
 
 ### Mechanical parts
 
+| Part | Description | Quantity | Link |
+|-|-|-|-|
+| Ball bearing 17x26x5mm | - | 3 | - |
+| Ball bearning 5x11x5mm | - | 2 | - |
+| ALL THE SCREWS TODO | - | - | - |
+
 ### Cables
 
 ## 3D printed parts
