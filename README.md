@@ -14,8 +14,8 @@ The parts listed here can be purchased from multiple online stores and retailers
 | Part | Description | Quantity | Link |
 |-|-|-|-|
 | Esp32 | Microcontroller running the SimpleFOC algorithm for motor control| 1 | [link](https://www.conrad.de/de/p/az-delivery-esp32-dev-kit-c-unverloetet-kompatibel-mit-arduino-850037836.html) |
-| SimpleFoc Mini v1.0 | Motor control board | 2 | [link](https://www.conrad.de/de/p/az-delivery-esp32-dev-kit-c-unverloetet-kompatibel-mit-arduino-850037836.html) |
-| BLDC gimbal motor gbm2804h | Brushless DC motors | 2 | [link](https://www.conrad.de/de/p/az-delivery-esp32-dev-kit-c-unverloetet-kompatibel-mit-arduino-850037836.html) |
+| SimpleFoc Mini v1.0 | Motor control board | 2 | Easiest to find on AliExpress via search for 'SimpleFOC Mini v1.0' |
+| BLDC gimbal motor gbm2804h | Brushless DC motors | 2 | Easiest to find on AliExpress or Amazon via search for 'BLDC gimbal motor gbm2804h' |
 | AS5600 Magnetic Encoder | Encoder for measuring motor angle | 2 | [link](https://funduinoshop.com/elektronische-module/sensoren/bewegung-distanz/magnetinduktives-winkelmess-sensormodul-as5600) |
 | Power supply, 12V, 3A | Power supply | 1 | [link](https://www.conrad.de/de/p/mean-well-gst36e12-p1j-steckernetzteil-festspannung-12-v-dc-3000-ma-36-w-1439200.html) |
 
