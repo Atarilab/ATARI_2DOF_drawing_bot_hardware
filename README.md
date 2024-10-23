@@ -29,6 +29,19 @@ The parts listed here can be purchased from multiple online stores and retailers
 
 ### Cables
 
+Ideally the cables for this build are crimped to guarantee good contacts and durability. Alternatively, the cables can also be soldered if being done with caution.
+Use this dupont crimp tool or a similar crimp tool with the corresponding dupont crimps so your cables will be compatbile with the rest of th electronics.
+| Part | Link |
+|-|-|
+| Dupont crimp tool | [Link](https://www.berrybase.de/crimpzange-fuer-dupont-steckverbinder-an-kabel-awg-18-28) |
+| Dupont crimps | [Link](https://www.berrybase.de/en/610-teiliges-dupont-crimp-steckverbinder-set-in-kunststoffbox) |
+
+#### Power cable
+
+#### Magnetic encoder cable
+
+#### Motor cable
+
 ## 3D printed parts
 
 ## Assembly
