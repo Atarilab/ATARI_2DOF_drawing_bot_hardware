@@ -18,6 +18,8 @@ The parts listed here can be purchased from multiple online stores and retailers
 | BLDC gimbal motor gbm2804h | Brushless DC motors | 2 | Easiest to find on AliExpress or Amazon via search for 'BLDC gimbal motor gbm2804h' |
 | AS5600 Magnetic Encoder | Encoder for measuring motor angle | 2 | [Link](https://funduinoshop.com/elektronische-module/sensoren/bewegung-distanz/magnetinduktives-winkelmess-sensormodul-as5600) |
 | Power supply, 12V, 3A | Power supply | 1 | [Link](https://www.conrad.de/de/p/mean-well-gst36e12-p1j-steckernetzteil-festspannung-12-v-dc-3000-ma-36-w-1439200.html) |
+| DC power socket 5.5x2.1mm | Power supply socket | 1 | [Link](https://www.conrad.de/de/p/tru-components-niedervolt-steckverbinder-buchse-einbau-vertikal-5-5-mm-2-1-mm-1-st-1582319.html) |
+| Micro USB cable | For ESP32 connection | 1 | - |
 
 ### Mechanical parts
 
@@ -25,7 +27,10 @@ The parts listed here can be purchased from multiple online stores and retailers
 |-|-|-|-|
 | Ball bearing 17x26x5mm | - | 3 | - |
 | Ball bearning 5x11x5mm | - | 2 | - |
-| ALL THE SCREWS TODO | - | - | - |
+| Screw M3x6mm flat head | - | 28 | - |
+| Screw M3x10mm flat head | - | 8 | - |
+| Screw M2x4mm round head | - | 12 | - |
+| Screw M2x16mm flat head | - | 4 | - |
 
 ### Tools
 
@@ -56,6 +61,19 @@ Use this dupont crimp tool or a similar crimp tool with the corresponding dupont
 #### Motor cable
 
 ## 3D printed parts
+
+| Part | Description | Quantity |
+| - | - | - |
+| Housing | Housing for all electronics components | 1 |
+| Housing lid | Lid of the housing | 1 |
+| Magnet pouch | Plate that holds the magnet for the AS5600 magnetic encoder | 2 |
+| Shaft socket | Socket for connecting the shaft of the input gear to the motor | 2 |
+| Input gear | Smaller gear of the transmission | 2 |
+| Output gear | Bigger gear of the transmission | 2 |
+| Rear Arm (L11 / L12) | - | 2 |
+| Front arm L (L21) | - | 1 |
+| Front arm R (L22) | - | 1 |
+| Pen holder | Pen holder for a standard Stabilo pen; The model might neeed adjustment for other pens | 1 |
 
 ## Assembly
 
