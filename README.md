@@ -36,7 +36,7 @@ The parts listed here can be purchased from multiple online stores and retailers
 | Soldering iron | For soldering wires to DC power socket | - |
 | 3D printer | For printing all structural parts | - |
 | Pliers wrench | Not essential, but helpful for pressing in ball bearings | [Link](https://www.hoffmann-group.com/DE/de/hom/p/813702-180?tId=308&wayIntoCart=PLP&comingFromCategory=60-03-13-00-00&triggerSelectItemEvent=1) |
-| Countersink hand tool | Not essential, but useful for cleaning up countersunk holes in the 3D print | [Link](https://www.hoffmann-group.com/DE/de/hom/p/150400-12%2C4?tId=509&wayIntoCart=SRP&triggerSelectItemEvent=1) |
+| Countersink hand tool | Not essential, but useful for cleaning up countersunk holes of 3D printed parts | [Link](https://www.hoffmann-group.com/DE/de/hom/p/150400-12%2C4?tId=509&wayIntoCart=SRP&triggerSelectItemEvent=1) |
 | Utility knife | not essential, but practical for cleaning up sharp edges of 3D printed parts | [Link](https://www.hoffmann-group.com/DE/de/hom/p/844800-?tId=677&wayIntoCart=PLP&comingFromCategory=60-05-04-05-00&triggerSelectItemEvent=1) |
 
 ### Cables
@@ -58,3 +58,39 @@ Use this dupont crimp tool or a similar crimp tool with the corresponding dupont
 ## 3D printed parts
 
 ## Assembly
+
+### Preparing components
+
+- Clean up all rough edges and holes of the 3D printed components
+- Solder 90-degree angled pin headers onto AS5600 PCB
+- Solder straight pin headers onto ESP32 (Ideally only the pins that are necessary)
+- Cut wires to the correct lengths and crimp dupont connectors onto their ends
+- Solder wires onto the DC power socket (2x12V and 2xGND) and crimp dupont connectors onto the loose ends
+- Cut motor cables to correct length and crimp dupont connectors onto the loose ends (3 pins)
+- Screw M2x16 screw into the hollow shaft of the input gear
+
+### Assembly of the housing
+1. Mount the ESP32 board into the housing by using the mounting holes in the center of the housing. The Micro USB connector should be accessible from outside the housing.
+2. Mount the two SimpleFOC Mini into the housing by using the outermost mounting holes
+3. Connect the SimpleFOC data connectors (cables with 5 pins) to the SimpleFOC Minis and to the ESP32
+4. Connect 3.3V supply cables to AS5600s
+5. Connect I2C cables (2 pins) to the AS5600s and to the ESP32
+6. Mount AS5600s into the housing by using the mounting holes next to the SimpleFOC Minis
+7. Connect the 3.3V supply cables of the AS5600 magnetic encoders to the SimpleFOC Minis
+8. Mount the DC power socket into the housing by using the large mounting hole in the wall next to the ESP32
+9. Connect the cables of the DC power socket to the SimpleFOC Minis supply pins
+
+### Assembly of the drive train
+1. Mount motors onto the bottom side of the housing lid by using the inner mounting holes
+2. Push the shaft of the input gear through the hollow motor shaft. Stick the shaft socket onto the end of the shaft of the input gear and insert a M2x16mm into the hole on the side of the shaft socket.
+3. Insert the round magnet of the AS5600 magentic encoder into the magnet pouch
+4. Align the holes of the magnet pouch and of the shaft socket with the mounting holes on the motor and screw four M3x10mm screws into the holes.
+5. Press large ball bearings into the recesses on the bottom sides of the output gears
+6. Press the output gears onto the round protrusions on the top side of the housing lid
+7. Press small ball bearings into the holes on the ends of the rear arms
+8. Press plastic pins at the ends of the front arms into the ball bearings on the rear arms
+9. Press a big ball bearing into the hole on the end of the left front arm
+10. Press the end of the right front arm into the big ball bearing of the left front arm
+11. Mount the two links onto the output gears using M3x6mm screws
+12. Connect the motor cables to the SimpleFOC Minis
+13. Mount the assembled housing lid onto the housing using M3x6mm screws
